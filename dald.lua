@@ -1,4 +1,3 @@
--- sub to viv for more!
 getgenv().Yuth = {
     Silent = {
         Enabled = true,
@@ -30,7 +29,6 @@ getgenv().Yuth = {
         Keybind = "q",
     },
 }
---I removed the group so yall dumbasses can use it
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
