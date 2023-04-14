@@ -7,7 +7,7 @@ getgenv().Yuth = {
     },
     FOV = {
         Visible = true,
-        Radius = 20,
+        Radius = 200,
     },
     Tracer = {
         Key = "C",
