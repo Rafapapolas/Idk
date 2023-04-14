@@ -7,7 +7,7 @@ getgenv().Yuth = {
     },
     FOV = {
         Visible = true,
-        Radius = 200,
+        Radius = 540,
     },
     Tracer = {
         Key = "C",
@@ -33,7 +33,6 @@ getgenv().Yuth = {
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 
---- the code shit
 getgenv().partlol = "Head"
 getgenv().partt = "Head"
 
