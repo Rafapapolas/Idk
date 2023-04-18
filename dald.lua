@@ -10,7 +10,7 @@ getgenv().Yuth = {
         Radius = 540,
     },
     Tracer = {
-        Key = "C",
+        Key = "",
         Enabled = true,
         Prediction = 0.025,
         Smoothness = 0.0623,
